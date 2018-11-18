@@ -19,6 +19,12 @@ public class ThreadA {
 			System.out.println("child thread notified");
 			
 			System.out.println("total:"+b.total);
+			
+			
+			System.out.println("total:"+b.total);	
+			System.out.println("total:"+b.total);	
+			System.out.println("total:"+b.total);	
+			System.out.println("total:"+b.total);
 		}
 		
 		
